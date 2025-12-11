@@ -1,1 +1,1 @@
-# Motor-Imagery-Brain-Computer-Interface-
+# Motor-Imagery-Brain-Computer-Interface
