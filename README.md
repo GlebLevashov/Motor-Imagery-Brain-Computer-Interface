@@ -1,12 +1,12 @@
 # Motor Imagery Brain-Computer Interface
 
-### Optimized Entropy-based Motor Imagery Classification + Visualizations
+### Entropy-based Motor Imagery Classification + Visualizations
 =====================================================================
 
 - CSD (Surface Laplacian) preprocessing
 - Entropy features (SampEn, PermEn, ApEn) on 8–30 Hz band
 - LDA with shrinkage
-- Console output:
+- Output:
     * S001 calibration curves
     * Final group mean accuracies
 - Visualizations:
