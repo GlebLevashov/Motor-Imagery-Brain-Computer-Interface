@@ -1,7 +1,7 @@
 # Motor Imagery Brain-Computer Interface
 
 ### Entropy-based Motor Imagery Classification + Visualizations
-=====================================================================
+----------------------------------------------------------------
 
 - CSD (Surface Laplacian) preprocessing
 - Entropy features (SampEn, PermEn, ApEn) on 8–30 Hz band
