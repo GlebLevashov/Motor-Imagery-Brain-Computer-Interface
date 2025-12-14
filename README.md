@@ -1,6 +1,6 @@
 # EEG BCI Motor Imagery Classification using Entropy Features
 
-This project implements a Brain-Computer Interface (BCI) pipeline to classify Motor Imagery (MI) tasks—specifically imagining opening and closing the left vs. right fist—using Electroencephalography (EEG) signals.
+This project for the Biomedical Signal Analysis course, BME772, implements a Brain-Computer Interface (BCI) pipeline to classify Motor Imagery (MI) tasks (specifically imagining opening and closing the left vs. right fist) using Electroencephalography (EEG) signals.
 
 The core focus of this analysis is comparing different **Entropy-based feature extraction methods** (Sample, Permutation, and Approximate Entropy) combined with Linear Discriminant Analysis (LDA) to distinguish between motor states.
 
