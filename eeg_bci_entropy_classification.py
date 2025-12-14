@@ -1,5 +1,3 @@
-# Authors: Omar Ali-Yare, Gleb Levashov, Raphael Mancini
-
 import os
 import warnings
 import mne
