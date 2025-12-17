@@ -47,7 +47,7 @@ METHODS = ["sampen", "permen", "appen"]
 # Minimum Number of Trials per Class
 MIN_TRIALS_PER_CLASS = 15
 
-# Set a Single Wide Motor Band (Mu + Beta)
+# Set a Single Wide Motor Band (Mu+Beta)
 BANDS = {
     "motor": (8.0, 30.0),
 }
